@@ -86,12 +86,12 @@ To explore innovative furniture concepts through hands-on design and fabrication
 ### Lobby Table
 
 <p align="center">
-  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC2.png" width="90%" />
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC2.png" width="50%" />
 </p>
 
 <p align="center">
   <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC4.jpeg" width="30%" />
-  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC6.jpeg" width="30%" />
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC6.jpeg" width="25%" />
   <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC3.png" width="30%" />
 </p>
 
@@ -107,6 +107,22 @@ To explore innovative furniture concepts through hands-on design and fabrication
 
 <td align="center">
 <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/Chess1.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
+
+---
+
+### Classroom Table
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/a53b65a0d718f1fc73ac7369f538a1a5859830a6/S1.png" width="400"/><br>
+</td>
+
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/a53b65a0d718f1fc73ac7369f538a1a5859830a6/S2.png" width="400"/><br>
 </td>
 </tr>
 </table>
