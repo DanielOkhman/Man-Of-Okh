@@ -35,6 +35,81 @@ To explore innovative furniture concepts through hands-on design and fabrication
 ## Previous Projects
 
 
+### Boat Table
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/Boat1.png" width="400"/><br>
+</td>
+
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/Boat3.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
+
+---
+
+### Black Walnut Burl Coffee Table
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/B1.jpeg" width="400"/><br>
+</td>
+
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/B2.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
+
+---
+
+### Dinning Table
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/BW2.jpeg" width="400"/><br>
+</td>
+
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/BW1.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
+
+---
+
+### Lobby Table
+
+<p align="center">
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC2.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC4.jpeg" width="30%" />
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC6.jpeg" width="30%" />
+  <img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/KC3.png" width="30%" />
+</p>
+
+---
+
+### Chess Board
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/Chess2.jpeg" width="400"/><br>
+</td>
+
+<td align="center">
+<img src="https://github.com/DanielOkhman/Man-Of-Okh/blob/97a6d7c34048adb104b7275fcb5263aa4010ebd0/Chess1.jpeg" width="400"/><br>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/DanielOkhman/Daniel-Okhman">
