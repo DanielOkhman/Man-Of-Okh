@@ -36,7 +36,7 @@ To explore innovative furniture concepts through hands-on design and fabrication
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=j1vN6tmqfxM">
-    <img src="https://www.youtube.com/watch?v=j1vN6tmqfxM/hqdefault.jpg"
+    <img src="https://img.youtube.com/vi/j1vN6tmqfxM/hqdefault.jpg"
          alt="Boat Table Build Montage"
          width="400">
   </a>
