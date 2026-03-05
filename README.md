@@ -34,6 +34,19 @@ To explore innovative furniture concepts through hands-on design and fabrication
 
 ## Previous Projects
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j1vN6tmqfxM">
+    <img src="https://www.youtube.com/watch?v=j1vN6tmqfxM/hqdefault.jpg"
+         alt="Boat Table Build Montage"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <i>Click image to watch demo video ↗</i>
+</p>
+
+<hr>
 
 ### Boat Table
 
